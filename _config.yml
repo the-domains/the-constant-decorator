@@ -1,0 +1,28 @@
+name: The Constant Decorator
+favicon: null
+layout_spectrum: 0.34392762114293873
+typography_spectrum: 0.5240150038152933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18581889034248888
+  lightness: 0.3841606779024005
+  saturation: 0.7211213079281151
+  rhythmicContrast: 0.04356321133673191
+purpose: []
